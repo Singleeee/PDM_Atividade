@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PDM Atividade</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_view">Atividade de PDM</string>
+    <string name="edit_view">escreva um texto aqui (edit view)</string>
+    <string name="image_view">image view</string>
+    <string name="progress_bar">progress bar</string>
+    <string name="button">Analise</string>
+    <string name="image_button">image button</string>
+    <string name="check_box">Cheque!</string>
+    <string name="date_picker">date picker</string>
+</resources>
